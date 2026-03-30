@@ -7,4 +7,5 @@ _Entendendo oque é **git**, aprendendo sobre **repositórios**, trabalhando com
 
 ## Redesocial:
 [Instagram](https://www.instagram.com/daviabensur/)
+
 [Youtube](https://www.youtube.com/@daviabensur2494)
