@@ -5,7 +5,7 @@ Nesse curos você vai dominar todo **git** e **github** _do zero ao profissional
 ## Módulos:
 _Entendendo oque é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**_
 
-## Redesocial:
+## Rede social:
 [Instagram](https://www.instagram.com/daviabensur/)
 
 [Youtube](https://www.youtube.com/@daviabensur2494)
