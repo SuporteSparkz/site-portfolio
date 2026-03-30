@@ -1,4 +1,9 @@
 ![Logo do git](https://avatars.githubusercontent.com/u/18133?s=200&v=4)
+
+[Bem vindo](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#módulos) |
+[Rede Social](#rede-social) |
+[Comandos](#comando-para-rodar-o-projeto)
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional_.
 
@@ -21,7 +26,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 3. GIT avançado.
 4. Usando github de forma profissional.
 
-## Rede social:
+### Rede social:
 [Instagram](https://www.instagram.com/daviabensur/)
 
 [Youtube](https://www.youtube.com/@daviabensur2494)
@@ -32,7 +37,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
 
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```
 npm start
