@@ -19,3 +19,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 [Instagram](https://www.instagram.com/daviabensur/)
 
 [Youtube](https://www.youtube.com/@daviabensur2494)
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda área destacada
