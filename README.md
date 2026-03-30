@@ -3,7 +3,10 @@
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional_.
 
 ## Módulos:
-_Entendendo oque é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**_
+* Começando com GIT.
+* Aprendendo sobre branches.
+* GIT avançado.
+* Usando github de forma profissional.
 
 ## Rede social:
 [Instagram](https://www.instagram.com/daviabensur/)
